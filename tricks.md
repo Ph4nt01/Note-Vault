@@ -1,5 +1,3 @@
-# Notes & Tricks
-
 - Use curl -X POST -d to send raw data
 - tshark faster than Wireshark for quick filter
 - CSP misconfig → use JSONP, SVG for XSS
