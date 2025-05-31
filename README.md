@@ -1,4 +1,4 @@
-# Learning-Journey
+# Note-Vault
 
 This repository is maintained as a personal knowledge base and progress tracker.
 
